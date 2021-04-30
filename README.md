@@ -1,4 +1,5 @@
-# Guía de inicio del blog
+# Blog en desarrollo.
+## Guía de inicio del blog
 
 Creada con el CMS Wagtail.
 
